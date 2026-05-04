@@ -207,7 +207,7 @@ public class ManageReposActivity extends AppCompatActivity implements RepoAdapte
      * clicks "Off" and then removes the apps. To compensate for the removal
      * of apps from index, it notifies the user via a toast that the apps
      * have been removed. Also, as before, it will still prompt the user to
-     * update the repos if you toggled on on.
+     * update the repos if you toggled it on.
      */
     @Override
     public void onToggleEnabled(Repository repo) {

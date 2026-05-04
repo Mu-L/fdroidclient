@@ -149,7 +149,7 @@ public final class LocalRepoKeyStore {
             }
 
             /*
-             * Kerplapp uses its own KeyManager to to ensure the correct
+             * Kerplapp uses its own KeyManager to ensure the correct
              * keystore alias is used for the correct purpose. With the default
              * key manager it is not possible to specify that HTTP_CERT_ALIAS
              * should be used for TLS and INDEX_CERT_ALIAS for signing the
