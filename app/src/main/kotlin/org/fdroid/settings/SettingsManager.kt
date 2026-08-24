@@ -3,7 +3,6 @@ package org.fdroid.settings
 import android.content.Context
 import android.content.Context.MODE_PRIVATE
 import android.content.SharedPreferences
-import androidx.annotation.UiThread
 import androidx.core.content.edit
 import dagger.hilt.android.qualifiers.ApplicationContext
 import io.ktor.client.engine.ProxyConfig
@@ -196,7 +195,9 @@ class SettingsManager @Inject constructor(@param:ApplicationContext private val 
   val warnWhenMeteredFlow = _warnWhenMeteredFlow.asStateFlow()
 
   private val _showSearchKeyboardFlow =
-    MutableStateFlow(prefs.getBoolean(PREF_KEY_SHOW_SEARCH_KEYBOARD, PREF_DEFAULT_SHOW_SEARCH_KEYBOARD))
+    MutableStateFlow(
+      prefs.getBoolean(PREF_KEY_SHOW_SEARCH_KEYBOARD, PREF_DEFAULT_SHOW_SEARCH_KEYBOARD)
+    )
   val showSearchKeyboardFlow = _showSearchKeyboardFlow.asStateFlow()
 
   val filterIncompatible: Boolean
@@ -216,6 +217,43 @@ class SettingsManager @Inject constructor(@param:ApplicationContext private val 
     set(value) {
       prefs.edit { putString(PREF_KEY_MY_APPS_SORT_ORDER, value.toSettings()) }
     }
+
+  init {
+    // proxy migration from 1.x can be removed after sufficient time has passed
+    try {
+      if (prefs.getBoolean("useTor", false)) {
+        log.info { "Migrating useTor to proxy setting" }
+        prefs.edit {
+          putString(PREF_KEY_PROXY, "127.0.0.1:9050")
+          remove("useTor")
+        }
+        // update flow, so UI also updates
+        prefsFlow.update {
+          it.toMutablePreferences().apply {
+            this[PREF_KEY_PROXY] = "127.0.0.1:9050"
+          }
+        }
+      }
+      val proxyHost = prefs.getString("proxyHost", null)
+      val proxyPort = prefs.getString("proxyPort", null)?.toIntOrNull()
+      if (proxyHost != null && proxyPort != null && proxyPort in 1..65535) {
+        log.info { "Migrating proxy settings to $proxyHost:$proxyPort" }
+        prefs.edit {
+          putString(PREF_KEY_PROXY, "$proxyHost:$proxyPort")
+          remove("proxyHost")
+          remove("proxyPort")
+        }
+        // update flow, so UI also updates
+        prefsFlow.update {
+          it.toMutablePreferences().apply {
+            this[PREF_KEY_PROXY] = "$proxyHost:$proxyPort"
+          }
+        }
+      }
+    } catch (e: Exception) {
+      log.error(e) { "Error migrating proxy settings" }
+    }
+  }
 
   fun onDontWarnOnMeteredNetwork() {
     prefs.edit { putBoolean(PREF_KEY_WARN_WHEN_METERED, false) }
