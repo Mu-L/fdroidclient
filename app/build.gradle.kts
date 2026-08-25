@@ -42,7 +42,7 @@ android {
     }
     getByName("debug") {
       applicationIdSuffix = ".debug"
-      versionNameSuffix = "-debug"
+      versionNameSuffix = "-$gitHash-debug"
       isDebuggable = true
     }
   }
