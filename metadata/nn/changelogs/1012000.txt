@@ -1,5 +1,4 @@
 * Omsetjingar av appskildringar støttar no fullstendig språklista i Android-innstillingane
-  Språkinnstillingar
 
 * «Nyaste»-fana viser resultat basert på språkinnstillingane
 

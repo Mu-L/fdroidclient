@@ -1,0 +1,8 @@
+* soporte experimental: desarchivar apps en Android 15
+* añadir apps nuevas a la pantalla de inicio en la mayoría de los lanzadores (¡Gracias Dhina!)
+* separar compartición de enlace y de archivo en detalles de apps
+* mostrar cartel si el APK tiene más permisos de los esperados
+* borrar cachés internos más seguido para liberar espacio (¡Gracias DerGenaue!)
+* reordenar botones de donación para coincidir con sitio web (¡Gracias Leo!)
+* ajuste para preferir espejos foráneos
+* correcciones menores

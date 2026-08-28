@@ -41,8 +41,6 @@
     <string name="menu_website">پایگاه وب</string>
     <string name="menu_changelog">گزارش دگرگونی</string>
     <string name="menu_upgrade">به‌روز رسانی</string>
-    <string name="menu_bitcoin">بیت‌کوین</string>
-    <string name="menu_litecoin">لایت‌کوین</string>
     <string name="local_repo_running">اف‌دروید آمادهٔ تاخت زدن است</string>
     <string name="touch_to_configure_local_repo">برای دیدن جزییات و اجازه به دیگران برای تاخت زدن کاره‌هایتان، لمس کنید.</string>
     <string name="deleting_repo">حذف کردن مخزن کنونی…</string>

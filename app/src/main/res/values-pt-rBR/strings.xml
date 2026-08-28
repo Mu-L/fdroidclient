@@ -85,8 +85,6 @@
     <string name="swap_qr_isnt_for_swap">O código QR que você leu não parece ser um código de troca.</string>
     <string name="theme_light">Claro</string>
     <string name="theme_dark">Escuro</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="more">Mais</string>
     <string name="menu_overflow_description">Mais opções</string>
     <string name="less">Menos</string>
@@ -454,4 +452,9 @@
     <string name="notification_channel_self_update_title">Autoatualização</string>
     <string name="notification_channel_self_update_description">Notifica quando o app for atualizado e fechado, para que você possa abri-lo novamente com facilidade</string>
     <string name="notification_self_update_title">%s foi atualizado. Toque para abrir</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

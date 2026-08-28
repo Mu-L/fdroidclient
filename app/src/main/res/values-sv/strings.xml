@@ -58,8 +58,6 @@
     <string name="bad_fingerprint">Felaktigt fingeravtryck</string>
     <string name="menu_settings">Inställningar</string>
     <string name="menu_changelog">Ändringslogg</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="banner_updating_repositories">Uppdaterar förråden</string>
     <string name="repo_details">Paketförråd</string>
     <string name="pref_language">Språk</string>

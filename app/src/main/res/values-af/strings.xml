@@ -31,7 +31,7 @@
     <string name="malformed_repo_uri">Ek ignoreer die misvormde argief URI: %s</string>
     <string name="menu_settings">Instellings</string>
     <string name="menu_search">Soek</string>
-    <string name="menu_add_repo">Nuevo Repositorio</string>
+    <string name="menu_add_repo">Nuwe argief</string>
     <string name="menu_share">Deel</string>
     <string name="menu_install">Installeer</string>
     <string name="menu_uninstall">Verwyder</string>
@@ -43,10 +43,8 @@
     <string name="menu_changelog">Veranderingslys</string>
     <string name="menu_source">Bronkode</string>
     <string name="menu_upgrade">Opdateer</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">Wys</string>
-    <string name="local_repo_running">roid is gereed om te deel</string>
+    <string name="local_repo_running">F-Droid is gereed om te deel</string>
     <string name="linking_apks">Koppel APKs na die argief…</string>
     <string name="next">Volgende</string>
     <string name="banner_updating_repositories">Opdatering van argiewe</string>

@@ -27,8 +27,6 @@
     <string name="menu_uninstall">Çinstaloje</string>
     <string name="menu_ignore_this">Shpërfille këtë përditësim</string>
     <string name="menu_source">Kod burim</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="icon">Ikonë</string>
     <string name="theme">Temë</string>
     <string name="pref_language">Gjuhë</string>

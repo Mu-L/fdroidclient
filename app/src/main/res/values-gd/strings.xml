@@ -23,8 +23,6 @@
     <string name="antiknownvulnlist">Tha so-leòntachd tèarainteachd aithnichte am broinn na h-aplacaid seo</string>
     <string name="main_menu__swap_nearby">Am fagas</string>
     <string name="main_menu__categories">Roinnean-seòrsa</string>
-    <string name="menu_litecoin">Litecoin</string>
-    <string name="menu_bitcoin">Bitcoin</string>
     <string name="menu_upgrade">Ùraich</string>
     <string name="menu_translation">Eadar-theangachadh</string>
     <string name="menu_source">Bun-tùs</string>

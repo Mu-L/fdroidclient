@@ -37,8 +37,6 @@
     <string name="menu_changelog">Catatan Perubahan</string>
     <string name="menu_source">Kode sumber</string>
     <string name="menu_upgrade">Perbarui</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">Tampilan</string>
     <string name="deleting_repo">Menghapus repo ini…</string>
     <string name="linking_apks">Menautkan APK ke dalam repo…</string>

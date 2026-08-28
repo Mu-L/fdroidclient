@@ -44,8 +44,6 @@
     <string name="bad_fingerprint">Վատ մատնահետք</string>
     <string name="menu_settings">Կարգավորումներ</string>
     <string name="menu_issues">Խնդիրներ</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="theme">Ոճ</string>
     <string name="wifi">Wi-Fi</string>
     <string name="swap_no_wifi_network">Դեռ ցանց չկա</string>

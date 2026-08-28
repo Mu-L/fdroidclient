@@ -71,8 +71,6 @@
     <string name="menu_license">Lisens: %s</string>
     <string name="menu_source">Kjeldekode</string>
     <string name="menu_translation">Omsetjing</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="antiknownvulnlist">Appen inneheld eit kjent tryggleikshòl</string>
     <string name="display">Vising</string>
     <string name="local_repo_running">F-Droid er klar til å utveksla appar</string>
@@ -439,4 +437,13 @@
     <string name="notification_channel_updates_available_description">Viser ei varsling etter at pakke­brønnar vert oppdaterte og app­oppdateringar funne</string>
     <string name="notification_channel_self_update_description">Varslar når appen oppdaterte seg sjølv og vart lukka, slik at du lett kan opna han att</string>
     <string name="permission_camera_denied">Gje kameraløyve viss du vil skanna QR-koden. Trykk for å gje løyva i innstillingane.</string>
+    <string name="repo_intro">Ein pakkebrønn er ei kjelde til appar. Tredjeparts­pakke­brønnar du legg til her, har andre standardar enn dei offisielle F-Droid-pakke­brønnane.\n\nDu bør sikra deg at pakkebrønnane du legg til, er til å stola på.</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="ipfsgw_explainer">Last ned ned appar frå IPFS-vev­endepunkt. (Verkar berre for F-Droid-pakkebrønnar med IPFS-støtte.)</string>
+    <string name="ipfsgw_summary_new">Last ned ned appar via IPFS-vev­endepunkt</string>
+    <string name="ipfsgw_caption_custom_gateways">Brukardefinerte IPFS-portnarar</string>
+    <string name="install_history_empty_state">Denne lista er framleis tom\n\nNår du installerer, oppdaterer eller avinstallerer ein app, vert det lagt til ei oppføring her.</string>
+    <string name="install_history_disabled_state">Installeringslogg er slått av\n\nInstallerering, oppdatering og avinstallering vert ikkje loggførte.</string>
+    <string name="liberapay">Liberapay</string>
 </resources>

@@ -43,7 +43,6 @@
     <string name="menu_changelog">變動表</string>
     <string name="menu_video">影片</string>
     <string name="menu_translation">翻譯</string>
-    <string name="menu_bitcoin">比特幣</string>
     <string name="main_menu__categories">分類</string>
     <string name="main_menu__swap_nearby">咫尺</string>
     <string name="display">顯示</string>
@@ -159,7 +158,6 @@
     <string name="share_repository">分享存庫</string>
     <string name="notification_channel_updates_description">顯示 app 同存庫更新嘅通知。</string>
     <string name="panic_reset_repos_summary">強制將存庫設定還原返預設噉樣</string>
-    <string name="menu_litecoin">萊特幣</string>
     <string name="panic_settings">緊急掣設定</string>
     <string name="panic_settings_summary">緊急狀態下要採取啲咩動作</string>
     <string name="repo_add_mirror">加入鏡像</string>
@@ -274,4 +272,9 @@
     <string name="notification_repo_update_default">而家連線到 %1$s…</string>
     <string name="notification_channel_updates_available_description">喺存庫更新同發現應用程式更新嘅時候顯示一則通知</string>
     <string name="notification_channel_updates_available_title">可用嘅應用程式更新</string>
+    <string name="menu_discover">探索</string>
+    <string name="menu_apps_my">我嘅應用</string>
+    <string name="first_start_loading">加載緊應用程式軟體庫…</string>
+    <string name="first_start_intro">要開始嘅話，請先同步應用程式軟體庫</string>
+    <string name="my_apps_header_recently_installed_apps">近排安裝</string>
 </resources>

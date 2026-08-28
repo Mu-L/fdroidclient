@@ -50,8 +50,6 @@
     <string name="swap_wifi_device_name">Gailuaren izena</string>
     <string name="linking_apks">APK fitxategiak biltegira lotzen…</string>
     <string name="banner_updating_repositories">Biltegiak eguneratzen</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="local_repo_running">F-Droid partekatzeko prest dago</string>
     <string name="touch_to_configure_local_repo">Ukitu xehetasunak ikusteko eta besteek zure aplikazioak hartzea ahalbidetzeko.</string>
     <string name="repo_details">Biltegia</string>

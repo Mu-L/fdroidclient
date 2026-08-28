@@ -39,8 +39,6 @@
     <string name="menu_changelog">Shandura Rutarwa rwemakare</string>
     <string name="menu_source">Nyuko yemurau</string>
     <string name="menu_upgrade">Kwidziridza</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">Pangidzo</string>
     <string name="local_repo_running">F-Droid yakagadzirira kutsinhana</string>
     <string name="touch_to_configure_local_repo">Bata kuti uwone zvizere nekubvumidza vamwe kuti vatsinhana maApps

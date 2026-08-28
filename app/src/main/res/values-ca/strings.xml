@@ -54,8 +54,6 @@
     <string name="back">Enrere</string>
     <string name="pref_language">Idioma</string>
     <string name="wifi">Wi-Fi</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="banner_updating_repositories">Actualitzant dipòsits</string>
     <string name="more">Més</string>
     <string name="menu_overflow_description">Més opcions</string>
@@ -344,7 +342,7 @@
     <string name="screenshots_metered">Piqueu per carregar les captures de pantalla usant dades mòbils</string>
     <string name="copy_link">Copia l\'enllaç</string>
     <string name="app_no_compatible_versions">Aquesta aplicació no és compatible amb el vostre dispositiu</string>
-    <string name="app_no_compatible_signer">No es pot actuatlizar aquesta aplicació perquè totes les versions tenen una signatura incompatible\n\nSi no rebeu actualitzacions a través d\'altres mitjans, potser haureu de desinstal·lar i tornar a instal·lar aquesta aplicació. Les dades de l\'aplicació es perdran.</string>
+    <string name="app_no_compatible_signer">No es pot actualitzar aquesta aplicació perquè totes les versions tenen una signatura incompatible\n\nSi no rebeu actualitzacions a través d\'altres mitjans, potser haureu de desinstal·lar i tornar a instal·lar aquesta aplicació. Les dades de l\'aplicació es perdran.</string>
     <string name="app_no_compatible_signer_in_this_repo">No es pot actualitzar aquesta aplicació perquè no hi ha versions compatibles al repositori preferit\n\nMireu de canviar de repositori preferit</string>
     <string name="app_no_auto_update">L\'actualització automàtica no està disponible perquè aquesta aplicació ha estat construïda per a una versió antiga d\'Android</string>
     <string name="app_issue_update_other_repo">Hi ha una actualització disponible en un altre repositori. Canvieu de repositori preferit per actualitzar</string>
@@ -451,4 +449,9 @@
     <string name="notification_channel_self_update_title">Autoactualització</string>
     <string name="notification_channel_self_update_description">Notifica quan l\'aplicació s\'ha actualitzat i s\'ha tancat, de manera que la puguis tornar a iniciar fàcilment</string>
     <string name="notification_self_update_title">El marcador de posició %s serà substituït pel nom d\'aquesta aplicació</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Col·lectiu obert</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

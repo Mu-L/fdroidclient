@@ -98,8 +98,6 @@
     <string name="menu_source">Cód foinse</string>
     <string name="menu_translation">Aistriúchán</string>
     <string name="menu_upgrade">Nuashonrú</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">LitecoinName</string>
     <string name="main_menu__categories">Catagóirí</string>
     <string name="main_menu__swap_nearby">In aice láimhe</string>
     <string name="antiknownvulnlist">Tá leochaileacht slándála aitheanta san aip seo</string>
@@ -471,4 +469,9 @@
     <string name="notification_channel_self_update_title">Féinnuashonrú</string>
     <string name="notification_channel_self_update_description">Tugann sé fógra nuair a rinneadh an aip a nuashonrú agus a dhúnadh í, ionas gur féidir leat í a sheoladh arís go héasca</string>
     <string name="notification_self_update_title">Nuashonraíodh %s. Tapáil le hoscailt</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Comhchoiteann Oscailte</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

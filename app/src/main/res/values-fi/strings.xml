@@ -63,8 +63,6 @@
     <string name="menu_settings">Asetukset</string>
     <string name="menu_email">Lähetä sähköpostia tekijälle</string>
     <string name="menu_changelog">Muutosloki</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="banner_updating_repositories">Päivitetään ohjelmavarastoja</string>
     <string name="repo_details">Ohjelmavarasto</string>
     <string name="repo_confirm_delete_title">Poistetaanko ohjelmavarasto?</string>
@@ -272,7 +270,7 @@
     <string name="call_to_action_keepandroidopen">F-Droid on uhattuna. Google on muuttamassa sovellusten asentamistapaa. Tarvitsemme apuasi.</string>
     <string name="crash_dialog_title_old">F-Droid kaatui</string>
     <string name="first_start_loading">Noudetaan ohjelmavarastoja…</string>
-    <string name="my_apps_empty">Vain ohjelmat ovat saatavilla tässä %1$s tietovarastossa.</string>
+    <string name="my_apps_empty">Vain ohjelmat saatavilla %1$s:n tietovarastoissa näkyvät tässä</string>
     <string name="my_apps_header_apps_with_issue">Sovellukset, joissa on ongelmia</string>
     <string name="my_apps_ignore_dialog_title">Piilota tapaus</string>
     <string name="my_apps_ignore_dialog_text">Ongelma sovelluksen \"%1$s\" versiossa ohitetaan</string>
@@ -364,7 +362,7 @@
     <string name="install_history_switch">Käytä asennushistoriaa</string>
     <string name="install_history_delete_ally">Poista asennushistoria</string>
     <string name="install_history_delete_text">Poistetaanko asennushistoria?</string>
-    <string name="repo_details_info_text">Tietovarasto on sovellusten lähde.\nPeilejä käytetään jakamaan sovellusten lataamisen kuormitus useille palvelimille.\nLähempänä sinua sijaitsevat peilit voivat olla nopeampia. Viralliset peilit määrittelee repositorion omistaja.\nNiitä ei voi poistaa, ainoastaan poistaa käytöstä. Voit määritellä lisää mukautettuja peilejä lisäämällä ne samoin kuin tavalliseen tietovarastoon.</string>
+    <string name="repo_details_info_text">Tietovarasto on sovellusten lähde.\n\nPeilejä käytetään jakamaan sovellusten lataamisen kuormitus useille palvelimille. Lähempänä sinua sijaitsevat peilit voivat olla nopeampia.\n\nViralliset peilit määrittelee repositorion omistaja. Niitä ei voi poistaa, ainoastaan poistaa käytöstä. Voit määritellä lisää mukautettuja peilejä lisäämällä ne samoin kuin tavalliseen tietovarastoon.</string>
     <string name="repo_archive_unknown">Tällä tietovarastolla ei näytä olevan arkistoa.</string>
     <string name="repo_archive_check">Tarkista arkisto</string>
     <string name="repo_last_update_check">Viimeisin tietovaraston päivitystarkistus: %s</string>
@@ -449,4 +447,9 @@
     <string name="notification_channel_self_update_description">Ilmoittaa, kun sovellus päivitti itsensä ja suljettiin, jotta voit käynnistää sen uudestaan helposti</string>
     <string name="notification_channel_self_update_title">Itsepäivitys</string>
     <string name="pref_repo_updates_summary_only_when_open_app">Tarkista päivitykset vain avattaessa • Sovellukset eivät pysy ajan tasalla</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

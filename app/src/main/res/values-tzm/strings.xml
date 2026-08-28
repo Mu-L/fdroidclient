@@ -37,8 +37,6 @@
     <string name="panic_app_setting_none">Walu</string>
     <string name="privacy">Tinnutla</string>
     <string name="try_again">Arem daɣ</string>
-    <string name="menu_litecoin">Litecoin</string>
-    <string name="menu_bitcoin">Bitcoin</string>
     <string name="menu_translation">Asuɣel</string>
     <string name="menu_source">Tangalt taγbalut</string>
     <string name="menu_license">Turagt: %s</string>

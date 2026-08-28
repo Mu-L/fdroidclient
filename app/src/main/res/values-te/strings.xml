@@ -29,8 +29,6 @@
     <string name="menu_changelog">మార్పులచిట్టా</string>
     <string name="menu_video">వీడియో</string>
     <string name="menu_license">లైసెన్సు: %s</string>
-    <string name="menu_bitcoin">బిట్‌కాయిన్</string>
-    <string name="menu_litecoin">లైట్‌కాయిన్</string>
     <string name="icon">ప్రతీకం</string>
     <string name="privacy">అంతరంగికత</string>
     <string name="panic_app_setting_none">ఏమీలేదు</string>

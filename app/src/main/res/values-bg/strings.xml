@@ -79,8 +79,6 @@
     <string name="menu_overflow_description">Още опции</string>
     <string name="less">По-малко</string>
     <string name="menu_settings">Настройки</string>
-    <string name="menu_bitcoin">Биткойн</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="repo_details">Хранилище</string>
     <string name="swap_join_same_wifi_desc">За осъществяване на размяна чрез безжична мрежа е необходимо да сте в една мрежа. Ако нямате достъп до обща мрежа един от вас може да създаде безжична точка.</string>
     <string name="swap_confirm_connect">Желаете ли да получите приложения от %1$s\?</string>

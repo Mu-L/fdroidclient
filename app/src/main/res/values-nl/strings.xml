@@ -90,8 +90,6 @@
     <string name="more">Meer</string>
     <string name="menu_overflow_description">Meer opties</string>
     <string name="less">Minder</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="repo_details">Opslagplaats</string>
     <string name="menu_settings">Instellingen</string>
     <string name="about_license">Licentie</string>
@@ -454,4 +452,9 @@
     <string name="notification_channel_self_update_title">Zelf-update</string>
     <string name="notification_channel_self_update_description">Meldt als de app zichzelf heeft geüpdated en is afgesloten zodat u het eenvoudig opnieuw kan opstarten</string>
     <string name="notification_self_update_title">%s is geüpdated. Tik om te openen</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

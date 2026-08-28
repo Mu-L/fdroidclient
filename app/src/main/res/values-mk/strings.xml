@@ -54,8 +54,6 @@
     <string name="theme">Тема</string>
     <string name="icon">Икона</string>
     <string name="display">Приказ</string>
-    <string name="menu_litecoin">Litecoin</string>
-    <string name="menu_bitcoin">Bitcoin</string>
     <string name="menu_upgrade">Ажурирај</string>
     <string name="menu_changelog">Дневник со промени</string>
     <string name="menu_issues">Проблеми</string>

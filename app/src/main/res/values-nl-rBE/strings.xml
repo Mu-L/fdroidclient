@@ -64,8 +64,6 @@
     <string name="menu_video">Video</string>
     <string name="menu_license">Licentie: %s</string>
     <string name="menu_source">Broncode</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">Weergave</string>
     <string name="local_repo_running">F-Droid is klaar om apps uit te wisselen</string>
     <string name="touch_to_configure_local_repo">Tik om details te bekijken en anderen apps te laten uitwisselen.</string>

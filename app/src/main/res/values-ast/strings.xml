@@ -87,8 +87,6 @@
     <string name="swap_not_visible_wifi">Nun yes visible pela Wi-Fi</string>
     <string name="wifi_ap">Puntu Wi-Fi</string>
     <string name="swap_active_hotspot">%1$s (el to puntu Wi-Fi)</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="repo_details">Depósitu</string>
     <string name="more">Más</string>
     <string name="less">Menos</string>

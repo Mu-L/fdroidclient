@@ -72,8 +72,6 @@
     <string name="menu_license">Lisensiya: %s</string>
     <string name="menu_translation">Salin</string>
     <string name="menu_source">Source Code</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="antiknownvulnlist">Naglalaman ng isang kilalang kahinaan sa seguridad ang app na ito</string>
     <string name="display">Pagpapakita</string>
     <string name="local_repo_running">Handa na\'ng magpalitan ang F-Droid</string>

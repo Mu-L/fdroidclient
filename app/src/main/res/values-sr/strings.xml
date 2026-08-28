@@ -86,8 +86,6 @@
     <string name="menu_overflow_description">Још опција</string>
     <string name="less">Мање</string>
     <string name="repo_details">Репозиторијум</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="menu_settings">Подешавања</string>
     <string name="swap_join_same_wifi_desc">Да бисте размењивали преко Wi-Fi-а, повежите се на исту мрежу. Ако то није могуће, једно од вас може да направи Wi-Fi хотспот.</string>
     <string name="about_license">Лиценца</string>

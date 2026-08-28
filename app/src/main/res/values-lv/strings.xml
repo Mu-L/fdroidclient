@@ -29,8 +29,6 @@
     <string name="menu_settings">Iestatījumi</string>
     <string name="menu_email">Nosūtīt autoram e-pasta ziņojumu</string>
     <string name="menu_issues">Nepilnību pieteikumi</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="repo_details">Glabātava</string>
     <string name="repo_confirm_delete_title">Izdzēst glabātavu?</string>
     <string name="pref_language">Valoda</string>

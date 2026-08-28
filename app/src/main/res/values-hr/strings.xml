@@ -43,8 +43,6 @@
     <string name="menu_changelog">Zapis promjena</string>
     <string name="menu_source">Izvorni kod</string>
     <string name="menu_upgrade">Aktualiziraj</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">Prikaz</string>
     <string name="local_repo_running">F-Droid je spreman za razmjenu</string>
     <string name="touch_to_configure_local_repo">Dodirni za prikaz detalja i za dopuštanje drugima da razmjenjuju tvoje aplikacije.</string>

@@ -39,8 +39,6 @@
     <string name="menu_changelog">Breytingaskrá</string>
     <string name="menu_source">Upprunakóði</string>
     <string name="menu_upgrade">Uppfæra</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">Birting</string>
     <string name="local_repo_running">F-Droid er tilbúið í forritaskipti</string>
     <string name="deleting_repo">Eyði núgildandi hugbúnaðarsafni…</string>

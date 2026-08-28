@@ -56,8 +56,6 @@
     <string name="menu_video">ದೃಶ್ಯ</string>
     <string name="menu_license">ಪರವಾನಗಿ:%s</string>
     <string name="menu_source">ಮೂಲ ಕೋಡ್</string>
-    <string name="menu_bitcoin">ಬಿಟ್ ಕಾಯಿನ್</string>
-    <string name="menu_litecoin">ಲಿಟ್ಕೋಯಿನ್</string>
     <string name="display">ಪ್ರದರ್ಶಿಸಿ</string>
     <string name="local_repo_running">ಎಫ್-ಡ್ರಾಯಿಡ್ ಸ್ವ್ಯಾಪ್ ಮಾಡಲು ಸಿದ್ಧವಾಗಿದೆ</string>
     <string name="touch_to_configure_local_repo">ವಿವರಗಳನ್ನು ವೀಕ್ಷಿಸಲು ಸ್ಪರ್ಶಿಸಿ ಮತ್ತು ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಸ್ವ್ಯಾಪ್ ಮಾಡಲು ಇತರರನ್ನು ಅನುಮತಿಸಿ.</string>

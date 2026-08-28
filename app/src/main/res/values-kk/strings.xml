@@ -6,7 +6,6 @@
     <string name="menu_issues">Мәселелер</string>
     <string name="menu_video">Бейне</string>
     <string name="menu_translation">Аудару</string>
-    <string name="menu_bitcoin">Bitcoin</string>
     <string name="main_menu__categories">Санаттар</string>
     <string name="display">Көрініс</string>
     <string name="try_again">Қайталап көріңіз</string>
@@ -24,7 +23,6 @@
     <string name="menu_email">Әзірлеушіге хат жазу</string>
     <string name="menu_license">Лицензия: %s</string>
     <string name="menu_upgrade">Жаңарту</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="main_menu__swap_nearby">Маңайда</string>
     <string name="allow">Рұқсат ету</string>
     <string name="preventScreenshots_title">Скриншот түсіруге тыйым салу</string>

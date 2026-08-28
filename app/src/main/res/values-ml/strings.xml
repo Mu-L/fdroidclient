@@ -63,8 +63,6 @@
     <string name="menu_video">വീഡിയോ</string>
     <string name="menu_license">അനുമതി: %s</string>
     <string name="menu_source">സോഴ്സ് കോഡ്</string>
-    <string name="menu_bitcoin">ബിറ്റ്കോയിന്‍</string>
-    <string name="menu_litecoin">ലെെറ്റ്കോയിന്‍</string>
     <string name="display">പ്രദര്‍ശനം</string>
     <string name="local_repo_running">എഫ്-ഡ്രോയ്ഡ് കൈമാറ്റം ചെയ്യാന്‍ തയ്യാറാണ്</string>
     <string name="touch_to_configure_local_repo">വിശദാംശങ്ങൾ കാണുന്നതിനും നിങ്ങളുടെ അപ്ലിക്കേഷനുകൾ കെെമാറ്റം ചെയ്യുന്നതിന് മറ്റുള്ളവരെ അനുവദിക്കുന്നതിനും തൊടുക.</string>

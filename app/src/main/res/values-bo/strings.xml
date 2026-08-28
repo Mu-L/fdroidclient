@@ -102,8 +102,6 @@
     <string name="swap_connecting">མཐུད་བཞིན་པ།</string>
     <string name="swap_confirm">བརྗེ་ལེན་གཏན་འཁེལ།</string>
     <string name="swap_qr_isnt_for_swap">ཁྱེད་རང་གིས་འཚག་རྒྱག་པའི་QR ཨང་རྟགས་འདི་བརྗེ་ལེན་ཨང་རྟགས་དང་འདྲ་མཚུངས་མིན་འདུག</string>
-    <string name="menu_bitcoin">དྲྭ་དངུལ།</string>
-    <string name="menu_litecoin">དྲྭ་རྒྱ་གསང་དངུལ།</string>
     <string name="app_name_full">ཨེཕ྄་ཌོ་རོ་ཡིཌ།</string>
     <string name="updates">གསར་བརྗེ་ཁག།</string>
     <string name="ok">འགྲིག།</string>

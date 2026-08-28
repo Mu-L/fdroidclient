@@ -14,6 +14,6 @@
 
 * Eldste støtte versjon er no Android 4.0
 
-* Store forbetringar for «whitelabel»-versjonar av F-Droid
+* Store forbetringar for omprofilerte utgåver av F-Droid
 
 * Ekspertinnstillingar for å senda versjonsinfo og UUID ved nedlasting (for feilsøking)

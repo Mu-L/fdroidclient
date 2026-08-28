@@ -61,8 +61,6 @@
     <string name="bad_fingerprint">Yanlış parmak izi</string>
     <string name="menu_settings">Ayarlar</string>
     <string name="menu_changelog">Değişim Günlüğü</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="banner_updating_repositories">Depolar güncelleniyor</string>
     <string name="repo_details">Depo</string>
     <string name="pref_language">Dil</string>
@@ -453,4 +451,9 @@
     <string name="notification_channel_self_update_title">Kendi kendine güncelleme</string>
     <string name="notification_channel_self_update_description">Uygulama kendini güncelleyip kapandığında bildirir, böylece kolayca tekrardan açabilirsin</string>
     <string name="notification_self_update_title">%s güncellendi. Açmak için dokunun</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

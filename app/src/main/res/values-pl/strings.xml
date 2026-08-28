@@ -88,8 +88,6 @@
     <string name="swap_qr_isnt_for_swap">Kod QR, który zeskanowałeś, nie wygląda jak kod do wymiany aplikacji.</string>
     <string name="theme_light">Jasny</string>
     <string name="theme_dark">Ciemny</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="repo_details">Repozytorium</string>
     <string name="more">Więcej</string>
     <string name="menu_overflow_description">Więcej opcji</string>
@@ -468,4 +466,9 @@
     <string name="notification_channel_self_update_title">Samoaktualizacja</string>
     <string name="notification_channel_self_update_description">Powiadamia, gdy aplikacja sama się zaktualizowała i zamknęła, więc możesz ją łatwo uruchomić ponownie</string>
     <string name="notification_self_update_title">%s został zaktualizowany. Naciśnij, aby otworzyć</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

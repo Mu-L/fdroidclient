@@ -76,7 +76,6 @@
     <string name="menu_license">لائسنس: %s</string>
     <string name="menu_video">ویڈیو</string>
     <string name="menu_translation">ترجمہ</string>
-    <string name="menu_bitcoin">بٹ کوائن۔</string>
     <string name="menu_changelog">چینجلوگ۔</string>
     <string name="menu_issues">مسائل۔</string>
     <string name="antiknownvulnlist">اس ایپ میں سیکیورٹی کی ایک معلوم کمزوری ہے۔</string>
@@ -95,7 +94,6 @@
     <string name="deleting_repo">موجودہ ریپو کو حذف کیا جا رہا ہے…</string>
     <string name="touch_to_configure_local_repo">تفصیلات دیکھنے کے لیے ٹچ کریں اور دوسروں کو آپ کے ایپس کو تبدیل کرنے کی اجازت دیں۔</string>
     <string name="local_repo_running">F-Droid تبدیل کرنے کے لیے تیار ہے۔</string>
-    <string name="menu_litecoin">لائٹ کوائن</string>
     <string name="repo_add_mirror">آئینہ شامل کریں۔</string>
     <string name="repo_add_add">شامل کریں</string>
     <string name="panic_destructive_actions">تباہ کن اعمال۔</string>

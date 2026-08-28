@@ -13,8 +13,8 @@
     <string name="about_license">授權</string>
     <string name="app_incompatible">不相容</string>
     <string name="app_installed">已安裝</string>
-    <string name="app_inst_known_source">已安裝 (來自 %s)</string>
-    <string name="app_inst_unknown_source">已安裝 (來源不明)</string>
+    <string name="app_inst_known_source">已安裝（來自 %s）</string>
+    <string name="app_inst_unknown_source">已安裝（來源不明）</string>
     <string name="ok">確定</string>
     <string name="yes">是</string>
     <string name="no">否</string>
@@ -37,8 +37,6 @@
     <string name="menu_changelog">變更記錄</string>
     <string name="menu_source">原始碼</string>
     <string name="menu_upgrade">更新</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">顯示</string>
     <string name="icon">圖示</string>
     <string name="pref_language">語言</string>
@@ -283,7 +281,7 @@
     <string name="donate_title">課金</string>
     <string name="anti_features_title">此應用程式包含負面功能</string>
     <string name="developer_contact">聯絡開發者</string>
-    <string name="installed_version">已安裝版本:</string>
+    <string name="installed_version">已安裝版本：</string>
     <string name="package_name">套件名稱:</string>
     <string name="technical_info">技術資訊</string>
     <string name="my_apps_header_apps_with_issue">存在問題的應用程式</string>
@@ -442,4 +440,9 @@
     <string name="notification_channel_self_update_title">自動更新</string>
     <string name="notification_channel_self_update_description">當應用程式自動更新並關閉時會發出通知，讓您能輕鬆重新啟動它</string>
     <string name="notification_self_update_title">%s 已更新。點擊以開啟</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">比特幣</string>
+    <string name="litecoin">萊特幣</string>
+    <string name="taler">Taler</string>
 </resources>

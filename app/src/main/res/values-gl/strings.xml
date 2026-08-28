@@ -40,8 +40,6 @@
     <string name="bad_fingerprint">Pegada dixital non correcta</string>
     <string name="malformed_repo_uri">Ignorouse unha URL de repositorio mal formada: %s</string>
     <string name="menu_changelog">Historial de mudanzas</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="local_repo_running">O F-Droid está disposto para o intercambio</string>
     <string name="touch_to_configure_local_repo">Preme para ollar os detalles e permitir ós demais o intercambio das túas aplicacións.</string>
     <string name="deleting_repo">Estase a eliminar o repositorio actual…</string>

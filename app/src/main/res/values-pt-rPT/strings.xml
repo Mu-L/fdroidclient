@@ -35,8 +35,6 @@
     <string name="menu_changelog">Registo de alterações</string>
     <string name="menu_source">Código-fonte</string>
     <string name="menu_upgrade">Atualizar</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">Ecrã</string>
     <string name="local_repo_running">O F-Droid está pronto para a troca</string>
     <string name="touch_to_configure_local_repo">Toque para ver os pormenores e permitir a troca de aplicações.</string>
@@ -451,4 +449,6 @@
     <string name="install_history_disabled_state">O histórico de instalações está desativado\n\nInstalações, atualizações e desinstalações não serão registadas</string>
     <string name="install_history_delete_ally">Apagar histórico de instalações</string>
     <string name="install_history_delete_text">Apagar o histórico de instalações?</string>
+    <string name="liberapay">opções de pagamento/doações suportadas</string>
+    <string name="open_collective">Open Collective</string>
 </resources>

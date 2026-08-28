@@ -38,8 +38,6 @@
     <string name="menu_changelog">ေျပာင္းလဲမႈမွတ္တမ္း</string>
     <string name="menu_source">ဆိုစ့္ကုဒ္</string>
     <string name="menu_upgrade">နောက်ဆုံးအဆင့်</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">မ်က္ႏ်ာျပင္ေဖာ္ျပခ်က္</string>
     <string name="local_repo_running">F-Droidကို စတင္ swap ႏိုင္ပါျပီ</string>
     <string name="linking_apks">APK မ်ားကို repo ႏွင့္ခ်ိတ္ေနပါသည္…</string>

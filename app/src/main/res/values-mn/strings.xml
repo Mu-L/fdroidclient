@@ -106,8 +106,6 @@
     <string name="local_repo_running">F-Droid-г солиход бэлэн боллоо</string>
     <string name="display">Дэлгэц</string>
     <string name="antiknownvulnlist">Энэхүү програм нь мэдэгдэж буй аюулгүй байдлын эмзэг байдлыг агуулдаг</string>
-    <string name="menu_litecoin">Litecoin</string>
-    <string name="menu_bitcoin">Bitcoin</string>
     <string name="menu_translation">Орчуулга</string>
     <string name="menu_source">Эх код</string>
     <string name="menu_license">Лиценз: %s</string>
