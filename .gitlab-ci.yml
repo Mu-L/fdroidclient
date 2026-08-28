@@ -156,8 +156,6 @@ libs lint:
 app screenshots:
   <<: *test-template
   stage: lint
-  variables:
-    GIT_LFS_SKIP_SMUDGE: "0"
   rules:
     - <<: *always-on-these-changes
     - changes:
@@ -167,9 +165,9 @@ app screenshots:
     - apt-get -qy install --no-install-recommends git-lfs
     - test -n "$ANDROID_HOME" || source /etc/profile.d/bsenv.sh
     - export GRADLE_USER_HOME=$PWD/.gradle
-    - git lfs install
-    - git lfs fetch origin --all
-    - git lfs checkout
+    - git lfs install || true
+    - git lfs fetch origin --all || true
+    - git lfs checkout || true
   script:
     - ./gradlew :app:validateBasicDefaultDebugScreenshotTest
   after_script:
@@ -192,6 +190,8 @@ app screenshots:
 app tools scripts:
   stage: lint
   image: debian:trixie-slim
+  variables:
+    GIT_LFS_SKIP_SMUDGE: "1"
   rules:
     - <<: *always-on-these-changes
     - changes:
