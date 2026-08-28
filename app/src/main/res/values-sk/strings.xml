@@ -67,8 +67,6 @@
     <string name="pref_language">Jazyk</string>
     <string name="wifi">Wi‑Fi</string>
     <string name="wifi_ap">Hotspot</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="swap_success">Výmena úspešná!</string>
     <string name="swap_active_hotspot">%1$s (váš hotspot)</string>
     <string name="swap_choose_apps">Vybrať aplikácie</string>

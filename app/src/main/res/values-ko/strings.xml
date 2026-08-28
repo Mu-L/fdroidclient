@@ -61,8 +61,6 @@
     <string name="bad_fingerprint">잘못된 지문</string>
     <string name="menu_settings">설정</string>
     <string name="menu_changelog">변경내역</string>
-    <string name="menu_bitcoin">비트코인</string>
-    <string name="menu_litecoin">라이트코인</string>
     <string name="banner_updating_repositories">저장소 동기화 중</string>
     <string name="repo_details">저장소</string>
     <string name="pref_language">언어</string>
@@ -441,4 +439,9 @@
     <string name="notification_self_update_title">%s 업데이트 완료. 눌러서 실행하세요</string>
     <string name="pref_auto_updates_only_only_when_open_app">앱을 실행할 때에만</string>
     <string name="pref_repo_updates_summary_only_when_open_app">앱을 실행했을 때만 업데이트 확인 • 앱이 구 버전에 머묾</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

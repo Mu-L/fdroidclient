@@ -68,13 +68,11 @@
     <string name="panic_app_setting_none">هیچیان</string>
     <string name="menu_video">ڤیدیۆ</string>
     <string name="about_title_basic">دەربارەی ئێف-درۆیدی بچینەیی</string>
-    <string name="menu_litecoin">لایتکۆین</string>
     <string name="menu_website">وێبگە</string>
     <string name="sort_search">گەڕانەکان پۆلێن بکە</string>
     <string name="menu_license">مۆڵەت: %s</string>
     <string name="icon">وێنۆچکە</string>
     <string name="panic_exit_title">دەرچوون</string>
-    <string name="menu_bitcoin">بیتکۆین</string>
     <string name="about_title_full">دەربارەی ئێف-درۆید</string>
     <string name="repo_add_add">زیادکردن</string>
     <string name="app__install_downloaded_update">بەڕۆژکردن</string>

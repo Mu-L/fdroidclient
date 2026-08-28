@@ -35,11 +35,11 @@
     <string name="swap_view_available_networks">Tuŝu por montri disponeblajn retojn</string>
     <string name="open_qr_code_scanner">Malfermi QR-kod-skanilon</string>
     <string name="swap_welcome">Bonvenon al F-Droid!</string>
-    <string name="installIncompatible">Aplikaĵo estas nekongrua kun via aparato, ĉu instali ĝin malgraŭ tio\?</string>
+    <string name="installIncompatible">Aplikaĵo estas neakorda kun via aparato, ĉu instali ĝin malgraŭ tio?</string>
     <string name="SignatureMismatch">La nova versio estas subskribita per malsama ŝlosilo. Por instali la novan version, oni devas antaŭe malinstali la malnovan ion. Malinstalu la malnovan version kaj reprovu. (Konsciu, ke malinstalo forigos ĉiujn internajn datumojn konservitajn de la aplikaĵo.)</string>
     <string name="about_source">Fontkodo</string>
     <string name="about_license">Permesilo</string>
-    <string name="app_incompatible">Nekongrua</string>
+    <string name="app_incompatible">Neakorda</string>
     <string name="links">Ligiloj</string>
     <string name="more">Pli</string>
     <string name="less">Malpli</string>
@@ -49,8 +49,6 @@
     <string name="menu_settings">Agordoj</string>
     <string name="menu_email">Retletero al programisto</string>
     <string name="menu_changelog">Ŝanĝ-protokolo</string>
-    <string name="menu_bitcoin">Bitmono</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="local_repo_running">F-Droid estas preta por interŝanĝo</string>
     <string name="touch_to_configure_local_repo">Tuŝu por rigardi detalojn kaj permesi al aliaj interŝanĝi viajn aplikaĵojn.</string>
     <string name="banner_updating_repositories">Ĝisdatigado de deponejoj</string>
@@ -295,12 +293,12 @@
     <string name="first_start_metered">Vi nun uzas ĉeltelefonan konekton kaj necesas elŝuti pli ol 10 MB. Frapetu “Elŝuti deponejojn” por komenci malgraŭ tio.</string>
     <string name="first_start_button">Elŝuti deponejojn</string>
     <string name="no_repos_enabled">Neniu disponebla deponejo. Aldonu deponejon por komenci.</string>
-    <string name="search_filter_no_results">Neniu kongrua aplikaĵo\n\nProvu uzi malpli da serĉvortojn aŭ forigi filtrilojn</string>
-    <string name="search_my_apps_no_results">Neniu kongrua aplikaĵo\n\nProvu uzi malpli da serĉvortojn</string>
-    <string name="sort_title">Ordigo kaj kongrueco</string>
+    <string name="search_filter_no_results">Neniu akorda aplikaĵo\n\nProvu uzi malpli da serĉvortojn aŭ forigi filtrilojn</string>
+    <string name="search_my_apps_no_results">Neniu akorda aplikaĵo\n\nProvu uzi malpli da serĉvortojn</string>
+    <string name="sort_title">Ordigo kaj akordo</string>
     <string name="sort_by_name">Ordigi laŭ nomo</string>
     <string name="sort_by_latest">Ordigi laŭ lasta ĝisdatigo</string>
-    <string name="filter_only_compatible">Aplikaĵoj kongruaj kun tiu ĉi aparato</string>
+    <string name="filter_only_compatible">Aplikaĵoj akordaj kun tiu ĉi aparato</string>
     <string name="filter_button_save">Konservi kiel implicitan</string>
     <string name="filter_intro">Filtri aplikaĵojn</string>
     <string name="filter_button_clear_all">Nuligi ĉiujn filtrilojn</string>
@@ -341,9 +339,9 @@
     <string name="dialog_metered_button">Elŝuti</string>
     <string name="screenshots_metered">Frapetu por elŝuti ekrankopiojn per ĉeltelefona konekto</string>
     <string name="copy_link">Kopii ligilon</string>
-    <string name="app_no_compatible_versions">Tiu ĉi aplikaĵo estas nekongrua kun via aparato</string>
-    <string name="app_no_compatible_signer">Ne eblas ĝisdatigi tiun ĉi aplikaĵon, ĉar ĉiu versio havas nekongruan subskribon.\n\nSe vi ne ricevas ĝisdatigojn el aliaj fontoj, necesas malinstali kaj sekve reinstali la aplikaĵon. Datumoj de la aplikaĵo perdiĝos.</string>
-    <string name="app_no_compatible_signer_in_this_repo">Ne eblas ĝisdatigi tiun ĉi aplikaĵon, ĉar estas neniu kongrua versio de ĝi en la preferata deponejo.\n\nProvu ŝanĝi la preferatan deponejon.</string>
+    <string name="app_no_compatible_versions">Tiu ĉi aplikaĵo estas neakorda kun via aparato</string>
+    <string name="app_no_compatible_signer">Ne eblas ĝisdatigi tiun ĉi aplikaĵon, ĉar ĉiu versio havas neakordan subskribon.\n\nSe vi ne ricevas ĝisdatigojn el aliaj fontoj, necesas malinstali kaj sekve reinstali la aplikaĵon. Datumoj de la aplikaĵo perdiĝos.</string>
+    <string name="app_no_compatible_signer_in_this_repo">Ne eblas ĝisdatigi tiun ĉi aplikaĵon, ĉar estas neniu akorda versio de ĝi en la preferata deponejo.\n\nProvu ŝanĝi la preferatan deponejon.</string>
     <string name="app_no_auto_update">Ne eblas aŭtomate ĝisdatigi tiun ĉi aplikaĵon, ĉar ĝi estas kompilita celante malnovan version de Android.</string>
     <string name="app_issue_update_other_repo">Ĝisdatigo estas disponebla en alia deponejo. Ŝanĝu preferatan deponejon por ĝisdatigi.</string>
     <string name="app_issue_not_available_title">Aplikaĵo jam ne disponebla</string>
@@ -359,8 +357,8 @@
     <string name="sdk_max_version">%1$s (maks.)</string>
     <string name="signer_colon">Subskribinto: %1$s</string>
     <string name="architectures_colon">Arĥitekturoj: %1$s</string>
-    <string name="app_details_incompatible_version">Nekongrua • Instalado probable malsukcesos</string>
-    <string name="app_details_incompatible_signer">Nekongrua subskribo, ne povas instali</string>
+    <string name="app_details_incompatible_version">Neakorda • Instalado probable malsukcesos</string>
+    <string name="app_details_incompatible_signer">Neakorda subskribo, ne povas instali</string>
     <string name="app_details_install_error_text">Ho ne! Okazis neatendita eraro dum instali tiun ĉi aplikaĵon.</string>
     <string name="repo_has_update_error">Eraroj pri ĝisdatigoj</string>
     <string name="repo_has_update_error_intro">Eraro okazis dum ĝisdatigi tiun ĉi deponejon:</string>
@@ -446,4 +444,9 @@
     <string name="notification_channel_self_update_title">Mem-ĝisdatigo</string>
     <string name="notification_channel_self_update_description">Montras sciigon post kiam la aplikaĵo estas ĝisdatiginta sin mem por ke vi povu facile restarti ĝin.</string>
     <string name="notification_self_update_title">%s estas ĝisdatigita. Frapetu por ekigi ĝin</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">Bitmono</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">GNU Taler</string>
 </resources>

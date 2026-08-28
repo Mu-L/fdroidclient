@@ -51,7 +51,6 @@
     <string name="update_auto_install">Asebded awurman n umucceḍ</string>
     <string name="app_incompatible">Ur imṣada ara</string>
     <string name="menu_changelog">Aɣmis n ibeddilen</string>
-    <string name="menu_bitcoin">Bitcoin</string>
     <string name="swap_active_hotspot">%1$s (taneqqiḍt-ik n unekcum)</string>
     <string name="swap_choose_apps">Fren isnasen</string>
     <string name="swap_wifi_device_name">Isem n yibenk</string>
@@ -69,7 +68,6 @@
     <string name="menu_ignore_all">Zgel Akk Ileqman</string>
     <string name="menu_ignore_this">Zgel Lqem-Agi</string>
     <string name="menu_email">Azen imayl i umeskar</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="install_history">Amazray n usebded</string>
     <string name="privacy">Tabaḍnit</string>
     <string name="preventScreenshots_title">Sewḥel tuṭṭfiwin n ugdil</string>

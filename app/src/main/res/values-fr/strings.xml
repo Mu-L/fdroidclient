@@ -61,8 +61,6 @@
     <string name="swap_switch_to_wifi">Touchez pour basculer vers un réseau Wi-Fi</string>
     <string name="theme_light">Clair</string>
     <string name="theme_dark">Sombre</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="swap_join_same_wifi_desc">Pour échanger via Wi-Fi, assurez-vous d\'être sur le même réseau Wi-Fi. Si vous n\'avez pas accès au même réseau, l\'un d\'entre vous peut créer un point d\'accès Wi-Fi.</string>
     <string name="swap_join_this_hotspot">Aidez votre ami à se connecter à votre point d\'accès</string>
     <string name="swap_success">Échange réussi !</string>
@@ -260,13 +258,13 @@
     <string name="menu_about">À propos</string>
     <string name="menu_discover">Découvrir</string>
     <string name="menu_apps_my">Mes applications</string>
-    <string name="first_start_loading">Récupération des dépôts d\'applications…</string>
+    <string name="first_start_loading">Chercher des dépôts d\'applications…</string>
     <string name="my_apps_empty">Seules les applications disponibles dans les dépôts de %1$s sont affichées ici</string>
     <string name="my_apps_header_apps_with_issue">Applications présentant des problèmes</string>
     <string name="my_apps_ignore_dialog_title">Masquer le problème</string>
     <string name="my_apps_ignore_dialog_text">Le problème lié à cette version de « %1$s » sera ignoré</string>
     <string name="my_apps_ignore_dialog_button">Masquer</string>
-    <string name="my_apps_export_installed_apps">Liste d\'applications exportées</string>
+    <string name="my_apps_export_installed_apps">Exporter la liste des applications</string>
     <string name="app_list_new">Nouvelles applications</string>
     <string name="app_list_recently_updated">Récemment mis à jour</string>
     <string name="app_list_most_downloaded">Les plus téléchargés</string>
@@ -454,4 +452,9 @@
     <string name="notification_channel_self_update_title">Mise à jour automatique</string>
     <string name="notification_channel_self_update_description">Vous avertit lorsque l\'application s\'est mise à jour et s\'est fermée, afin que vous puissiez la relancer facilement</string>
     <string name="notification_self_update_title">%s a été mis à jour. Appuyez pour ouvrir</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Collectif ouvert</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

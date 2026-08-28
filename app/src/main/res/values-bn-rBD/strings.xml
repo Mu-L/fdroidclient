@@ -30,8 +30,6 @@
     <string name="scan_removable_storage_toast">%s স্ক্যান করা হচ্ছে…</string>
     <string name="display">দেখাও</string>
     <string name="icon">আইকন</string>
-    <string name="menu_litecoin">লাইটকয়েন</string>
-    <string name="menu_bitcoin">বিটকয়েন</string>
     <string name="menu_translation">অনুবাদ</string>
     <string name="menu_video">ভিডিও</string>
     <string name="menu_changelog">পরিবর্তনসূচি</string>

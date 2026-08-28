@@ -2,6 +2,6 @@
 * Deling av appar via Direct Share frå appdetaljar (@fynngodau)
 * «Nyaste»-fana viser betre informasjon på ikkje-engelske einingar
 * Oppdaterte kjernebibliotek (Jackson, androidx, gradle, etc)
-* Forbetra Whitelabel-støtte
+* Forbetra støtte for omprofilering
 
 Takk til dei nye bidragsytarane! @fynngodau @projectgus @glennmen @Isira-Seneviratne

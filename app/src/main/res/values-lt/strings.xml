@@ -83,8 +83,6 @@
     <string name="menu_email">Rašyti autoriui el. laišką</string>
     <string name="menu_video">Vaizdo įrašas</string>
     <string name="menu_license">Licencija: %s</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="repo_official_mirrors">Oficialios tinklavietės</string>
     <string name="disabled">Neleidžiama</string>
     <string name="installing">Diegiama…</string>

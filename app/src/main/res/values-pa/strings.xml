@@ -32,7 +32,6 @@
     <string name="main_menu__categories">ਸ਼੍ਰੇਣੀਆਂ</string>
     <string name="menu_translation">ਅਨੁਵਾਦ</string>
     <string name="menu_source">ਸਰੋਤ ਕੋਡ</string>
-    <string name="menu_bitcoin">ਬਿੱਟ-ਕੁਆਇਨ</string>
     <string name="main_menu__swap_nearby">ਨੇੜੇ-ਤੇੜੇ</string>
     <string name="swap_scan_qr">QR ਕੋਡ</string>
     <string name="apps">ਐਪਾਂ</string>
@@ -126,7 +125,6 @@
     <string name="menu_issues">ਮੁੱਦੇ</string>
     <string name="menu_video">ਵੀਡੀਓ</string>
     <string name="menu_license">ਲਾਈਸੈਂਸ: %s</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="banner_updating_repositories">ਰਿਪੌਜ਼ਟਰੀਆਂ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ</string>
     <string name="banner_no_internet">ਕੋਈ ਇੰਟਰਨੈੱਟ ਨਹੀਂ</string>
     <string name="antiknownvulnlist">ਇਸ ਐਪ ਵਿੱਚ ਇੱਕ ਜਾਣੀ ਜਾਂਦੀ ਸੁਰੱਖਿਆ ਕਮਜ਼ੋਰੀ ਸ਼ਾਮਲ ਹੈ</string>

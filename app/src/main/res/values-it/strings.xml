@@ -60,7 +60,6 @@
     <string name="less">Riduci</string>
     <string name="bad_fingerprint">Impronta digitale non corrispondente</string>
     <string name="menu_settings">Impostazioni</string>
-    <string name="menu_bitcoin">Bitcoin</string>
     <string name="swap_connecting">Connessione</string>
     <string name="swap_wifi_device_name">Nome del dispositivo</string>
     <string name="swap_cant_find_peers">Non riesci a trovare chi stai cercando?</string>
@@ -85,7 +84,6 @@
     <string name="about_license">Licenza</string>
     <string name="links">Collegamenti</string>
     <string name="menu_changelog">Cronologia</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="banner_updating_repositories">Aggiornamento dei repository</string>
     <string name="repo_details">Repository</string>
     <string name="pref_language">Lingua</string>

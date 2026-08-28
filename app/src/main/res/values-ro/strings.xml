@@ -35,7 +35,6 @@
     <string name="icon">Iconiță</string>
     <string name="linking_apks">Se asociază APK-urile cu depozitul…</string>
     <string name="deleting_repo">Se șterge depozitul curent…</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="menu_upgrade">Actualizează</string>
     <string name="menu_source">Codul sursă</string>
     <string name="menu_issues">Listă probleme</string>
@@ -49,7 +48,6 @@
     <string name="wifi">Wi-Fi</string>
     <string name="repo_confirm_delete_title">Șterge depozit?</string>
     <string name="next">Înainte</string>
-    <string name="menu_bitcoin">Bitcoin</string>
     <string name="menu_settings">Setări</string>
     <string name="pref_language">Limbă</string>
     <string name="repo_fingerprint">Amprenta cheii de semnătură (SHA-256)</string>

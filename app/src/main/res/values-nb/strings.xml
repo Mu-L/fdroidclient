@@ -56,8 +56,6 @@
     <string name="back">Tilbake</string>
     <string name="bad_fingerprint">Feil i fingeravtrykk</string>
     <string name="menu_changelog">Endringslogg</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="banner_updating_repositories">Oppdaterer pakkebrønner</string>
     <string name="repo_details">Pakkebrønn</string>
     <string name="pref_language">Språk</string>

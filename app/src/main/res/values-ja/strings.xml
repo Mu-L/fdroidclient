@@ -87,8 +87,6 @@
     <string name="theme_light">ライト</string>
     <string name="theme_dark">ダーク</string>
     <string name="about_source">ソースコード</string>
-    <string name="menu_bitcoin">ビットコイン</string>
-    <string name="menu_litecoin">ライトコイン</string>
     <string name="repo_details">リポジトリ</string>
     <string name="more">詳細を表示</string>
     <string name="menu_overflow_description">その他のオプション</string>
@@ -448,4 +446,9 @@
     <string name="install_history_empty_state">このリストはまだ空です\n\nアプリのインストールや更新、アンインストールで、ここへ記録が表示されます</string>
     <string name="install_history_disabled_state">インストール履歴は無効です\n\nインストール、更新・アンインストールは記録されません</string>
     <string name="repo_disable_dialog_text">このリポジトリのすべてのアプリが表示されなくなります。すでにインストール済みのアプリには影響しません。</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

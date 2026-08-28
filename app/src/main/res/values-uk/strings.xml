@@ -34,8 +34,6 @@
     <string name="menu_ignore_this">Ігнорувати це оновлення</string>
     <string name="menu_changelog">Журнал змін</string>
     <string name="menu_upgrade">Оновити</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="bad_fingerprint">Неправильний цифровий відбиток</string>
     <string name="deleting_repo">Видалення поточного репозиторію…</string>
     <string name="next">Далі</string>
@@ -283,7 +281,7 @@
     <string name="category_group_storage">Файли та зберігання</string>
     <string name="category_group_interests">Інтереси</string>
     <string name="category_group_misc">Різне</string>
-    <string name="last_updated">Останні оновлено: %1$s</string>
+    <string name="last_updated">Останнє оновлення: %1$s</string>
     <string name="last_updated_with_size">Останні оновлено: %1$s (%2$s)</string>
     <string name="status_install_preparing">Підготовка до встановлення…</string>
     <string name="whats_new_title">Що нового</string>
@@ -457,4 +455,9 @@
     <string name="install_history_disabled_state">Історію встановлення вимкнено\n\nІнсталяції, оновлення та видалення не будуть записані</string>
     <string name="install_history_delete_ally">Видалити історію встановлення</string>
     <string name="install_history_delete_text">Видалити історію встановлення?</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

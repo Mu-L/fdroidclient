@@ -55,8 +55,6 @@
     <string name="theme_light">Világos</string>
     <string name="theme_dark">Sötét</string>
     <string name="crash_dialog_title">Az F-Droid összeomlott</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="wifi_ap">Hotspot</string>
     <string name="menu_email">E-mail a készítőnek</string>
     <string name="swap_join_same_wifi">Kapcsolódjon a barátjával azonos WiFi-hálózathoz</string>
@@ -446,4 +444,7 @@
     <string name="install_history_disabled_state">Telepítési előzmények kikapcsolva\n\nAlkalmazások telepítése, frissítése, vagy törlése esetén az előzmények nem lesznek rögzítve</string>
     <string name="install_history_delete_ally">Telepítési előzmények törlése</string>
     <string name="install_history_delete_text">Törli a telepítési előzményeket?</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
 </resources>

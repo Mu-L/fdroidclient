@@ -44,8 +44,6 @@
     <string name="bad_fingerprint">Λανθασμένο δακτυλικό αποτύπωμα</string>
     <string name="menu_settings">Ρυθμίσεις</string>
     <string name="menu_changelog">Ιστορικό αλλαγών</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="local_repo_running">Το F-Droid είναι έτοιμο να ανταλλάξει</string>
     <string name="touch_to_configure_local_repo">Πατήστε για να δείτε λεπτομέρειες και να επιτρέψετε σε άλλους να ανταλλάξουν τις εφαρμογές σας.</string>
     <string name="deleting_repo">Διαγραφή τρέχοντος αποθετηρίου…</string>

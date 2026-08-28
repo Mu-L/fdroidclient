@@ -37,8 +37,6 @@
     <string name="menu_changelog">மாற்றக்குறிப்பு</string>
     <string name="menu_source">மூல குறியீடு</string>
     <string name="menu_upgrade">புதுப்பிப்பு</string>
-    <string name="menu_bitcoin">பிட்காயின்</string>
-    <string name="menu_litecoin">லைட்காயின்</string>
     <string name="main_menu__categories">பிரிவுகள்</string>
     <string name="repo_details">களஞ்சியம்</string>
     <string name="SignatureMismatch">புதிய பதிப்பு பழைய ஒரு வேறு விசையுடன் ஒப்பமிடப்பட்டுள்ளது. புதிய பதிப்பை நிறுவ, பழையது முதலில் நிறுவல் நீக்கப்பட வேண்டும். தயவுசெய்து இதைச் செய்து மீண்டும் முயலவும். (நிறுவல் நீக்கம் செயலி சேமித்த உள் தரவை அழித்துவிடும் என்பதை குறித்துக்கொள்க)</string>

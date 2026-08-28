@@ -3,8 +3,6 @@
     <string name="installIncompatible">हे अँप तुमच्या यंत्रासाठी अनुकूल नाही, तरीदेखील स्थापना करु इच्छिता\?</string>
     <string name="pref_language">भाषा</string>
     <string name="malformed_repo_uri">विकृत भांडार URI: %s ला दुर्लक्षित</string>
-    <string name="menu_litecoin">लाईट</string>
-    <string name="menu_bitcoin">बिट</string>
     <string name="menu_source">मूळ संकेतभाषेचा स्रोत</string>
     <string name="menu_license">परवाना: %s</string>
     <string name="menu_changelog">नोंदवही</string>

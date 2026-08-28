@@ -51,8 +51,6 @@
     <string name="about_source">Mã nguồn</string>
     <string name="app_incompatible">Không tương thích</string>
     <string name="menu_changelog">Ghi chú Phát hành</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="linking_apks">Đang liên kết các tệp APK vào kho…</string>
     <string name="banner_updating_repositories">Đang cập nhật các kho</string>
     <string name="pref_language">Ngôn ngữ</string>

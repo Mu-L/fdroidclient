@@ -90,8 +90,6 @@
     <string name="more">Más</string>
     <string name="menu_overflow_description">Más opciones</string>
     <string name="less">Menos</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="repo_details">Repositorio</string>
     <string name="menu_settings">Ajustes</string>
     <string name="about_license">Licencia</string>
@@ -456,4 +454,9 @@
     <string name="notification_channel_self_update_description">Notifica cuando la aplicación se actualiza automáticamente y se cierra, para que puedas volver a abrirla fácilmente</string>
     <string name="notification_self_update_title">%s se actualizó. Toca para abrirlo</string>
     <string name="category_group_summary_games">Juegos de mesa, cartas y fiesta</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

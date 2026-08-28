@@ -59,13 +59,11 @@
     <string name="app__install_downloaded_update">نواں کرو</string>
     <string name="menu_license">لائیسنس: %s</string>
     <string name="app_installed">اینسٹال کیتا گیا</string>
-    <string name="menu_litecoin">لائیٹ‌کوئین</string>
     <string name="links">کڑیاں</string>
     <string name="menu_issues">مسئلے</string>
     <string name="menu_video">ویڈیو</string>
     <string name="menu_source">سروت دا کوڈ</string>
     <string name="menu_translation">اُلتھا</string>
-    <string name="menu_bitcoin">بِٹ‌کوئین</string>
     <string name="menu_settings">سیٹنگاں</string>
     <string name="ok">ٹھیک اے</string>
     <string name="no">نہیں</string>

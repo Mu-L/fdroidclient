@@ -66,8 +66,6 @@
     <string name="theme_light">Hell</string>
     <string name="theme_dark">Dunkel</string>
     <string name="menu_settings">Einstellungen</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="repo_details">Paketquelle</string>
     <string name="swap_join_this_hotspot">Deinem Freund helfen, deinem Hotspot beizutreten</string>
     <string name="swap_success">Tausch erfolgreich!</string>
@@ -448,4 +446,9 @@
     <string name="notification_channel_self_update_title">Auto-Update</string>
     <string name="notification_channel_self_update_description">Benachrichtigt dich, wenn die App aktualisiert und geschlossen wurde, sodass du sie ganz einfach erneut starten kannst</string>
     <string name="notification_self_update_title">%s wurde aktualisiert. Zum Öffnen antippen</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

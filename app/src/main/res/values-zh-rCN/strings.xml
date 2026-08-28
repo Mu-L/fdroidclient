@@ -48,8 +48,6 @@
     <string name="bad_fingerprint">指纹无效</string>
     <string name="menu_settings">设置</string>
     <string name="menu_changelog">更新日志</string>
-    <string name="menu_bitcoin">比特币</string>
-    <string name="menu_litecoin">莱特币</string>
     <string name="local_repo_running">F-Droid 已准备好交换应用</string>
     <string name="touch_to_configure_local_repo">轻触以查看详细信息以及允许其他人与你交换应用。</string>
     <string name="linking_apks">正在将 APK 链接到存储库……</string>
@@ -444,4 +442,9 @@
     <string name="notification_channel_self_update_title">自更新</string>
     <string name="notification_channel_self_update_description">当应用更新自己并被关闭时通知以便能轻松地再次启动它</string>
     <string name="notification_self_update_title">已更新 %s。轻触打开</string>
+    <string name="liberapay">Liberapay</string>
+    <string name="open_collective">Open Collective</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="litecoin">Litecoin</string>
+    <string name="taler">Taler</string>
 </resources>

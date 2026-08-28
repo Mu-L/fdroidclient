@@ -20,9 +20,9 @@
     <string name="no">ไม่</string>
     <string name="repo_add_add">เพิ่ม</string>
     <string name="links">ลิ้งก์</string>
-    <string name="more">มากกว่า</string>
+    <string name="more">เพิ่มเติม</string>
     <string name="menu_overflow_description">ตัวเลือกอื่น</string>
-    <string name="less">น้อยกว่า</string>
+    <string name="less">ซ่อน</string>
     <string name="back">กลับ</string>
     <string name="cancel">ยกเลิก</string>
     <string name="bad_fingerprint">ลายนิ้วมือดิจิตอลไม่ตรงกัน</string>
@@ -40,8 +40,6 @@
     <string name="menu_changelog">บันทึกการเปลี่ยนแปลง</string>
     <string name="menu_source">ซอร์สโค้ด</string>
     <string name="menu_upgrade">อัปเดต</string>
-    <string name="menu_bitcoin">บิตคอยน์</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">แสดง</string>
     <string name="deleting_repo">กำลังลบแหล่งโปรแกรมนี้…</string>
     <string name="icon">ไอคอน</string>

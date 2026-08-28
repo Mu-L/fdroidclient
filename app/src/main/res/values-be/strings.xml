@@ -43,8 +43,6 @@
     <string name="menu_changelog">Спіс змен</string>
     <string name="menu_source">Зыходны код</string>
     <string name="menu_upgrade">Абнавіць</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">Выгляд</string>
     <string name="local_repo_running">F-Droid гатовы да абмену</string>
     <string name="touch_to_configure_local_repo">Дакраніцеся, каб праглядзець падрабязнасці і дазволіць абмен паміж праграмамі.</string>

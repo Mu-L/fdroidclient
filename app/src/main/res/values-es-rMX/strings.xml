@@ -38,8 +38,6 @@
     <string name="theme_dark">Oscuro</string>
     <string name="theme_light">Claro</string>
     <string name="scan_removable_storage_toast">Escaneando %s</string>
-    <string name="menu_litecoin">Litecoin</string>
-    <string name="menu_bitcoin">Bitcoin</string>
     <string name="menu_translation">Traducción</string>
     <string name="menu_source">Código fuente</string>
     <string name="menu_license">Licencia: %s</string>

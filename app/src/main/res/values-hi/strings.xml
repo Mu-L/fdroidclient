@@ -86,8 +86,6 @@
     <string name="menu_issues">मुद्दे</string>
     <string name="menu_changelog">मुद्दे</string>
     <string name="menu_source">सोर्स कोड</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">प्रदर्शन</string>
     <string name="local_repo_running">F-Droid स्वैप करने के लिए तैयार है</string>
     <string name="touch_to_configure_local_repo">विवरण देखने के लिए स्पर्श करें और दूसरों को अपने ऐप स्वैप करने की अनुमति दें।</string>

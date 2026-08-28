@@ -87,8 +87,6 @@
 \nהערה: כל היישומונים שהותקנו בעבר יישארו על המכשיר שלך.</string>
     <string name="not_on_same_wifi">המכשיר שלך אינו מחובר לאותה הרשת האלחוטית כמו המאגר המקומי שהוספת זה עתה! נא לנסות להצטרף לרשת הזאת: %s</string>
     <string name="swap_join_same_wifi_desc">כדי לבצע החלפה באמצעות רשת אלחוטית, עליך לוודא כי מכשירך מחובר לאותה הרשת. אם אין לך גישה לאותה הרשת, אחד מכם יכול ליצור נקודת רשת אלחוטית.</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="more">עוד</string>
     <string name="menu_overflow_description">אפשרויות נוספות</string>
     <string name="less">פחות</string>

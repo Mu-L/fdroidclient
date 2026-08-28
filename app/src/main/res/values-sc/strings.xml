@@ -84,8 +84,6 @@
     <string name="swap_qr_isnt_for_swap">Su còdighe QR iscansidu non paret unu còdighe de cumpartzidura.</string>
     <string name="theme_light">Craru</string>
     <string name="theme_dark">Iscuru</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="repo_details">Depòsitu</string>
     <string name="more">De prus</string>
     <string name="less">Prus pagu</string>

@@ -48,8 +48,6 @@
     <string name="menu_changelog">ცვლილებების ჟურნალი</string>
     <string name="menu_video">ვიდეო</string>
     <string name="menu_translation">თარგმანი</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="display">ჩვენება</string>
     <string name="privacy">კონფიდენციალობა</string>
     <string name="icon">ხატულა</string>

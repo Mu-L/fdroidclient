@@ -63,8 +63,6 @@
     <string name="menu_changelog">Spremembe</string>
     <string name="menu_video">Video</string>
     <string name="menu_license">Licenca: %s</string>
-    <string name="menu_bitcoin">Bitcoin</string>
-    <string name="menu_litecoin">Litecoin</string>
     <string name="antiknownvulnlist">Ta aplikacija vsebuje znano varnostno pomanjkljivost</string>
     <string name="display">Prikaži</string>
     <string name="local_repo_running">F-Droid je pripravljen na zamenjavo</string>
